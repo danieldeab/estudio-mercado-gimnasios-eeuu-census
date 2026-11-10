@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+seaborn
+geopandas
+plotly>=5.24
+scikit-learn
+jupyter
